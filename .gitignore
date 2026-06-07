@@ -1,0 +1,27 @@
+# Data files — too large for git, not tracked
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Keep the folder structure
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Outputs — track only final CSVs, not intermediate files
+outputs/*.png
+outputs/*.html
+
+# OS
+.DS_Store
+Thumbs.db
