@@ -261,7 +261,7 @@ Building this live. Predictions drop before June 11.
 ## Author
 
 **Yosmely Bermúdez** · AI/ML Engineer  
-[LinkedIn](https://linkedin.com/in/yosmely-bermudez) · [Portfolio](https://your-portfolio-link)
+[LinkedIn](https://linkedin.com/in/yosmely-bermudez) · [Portfolio](https://yosmelybermudez.github.io/)
 
 ---
 
