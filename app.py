@@ -23,10 +23,10 @@ import streamlit as st
 import plotly.graph_objects as go
 import lightgbm as lgb
 from itertools import combinations
-from dotenv import load_dotenv
+
 
 warnings.filterwarnings("ignore")
-load_dotenv()  # reads .env file if present
+
 
 # ── Page config ────────────────────────────────────────────────────────────
 st.set_page_config(
