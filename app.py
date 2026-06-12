@@ -382,7 +382,7 @@ WC2026_TEAMS = sorted([
     "Nigeria", "Panama", "Poland", "Portugal", "Qatar", "Romania",
     "Saudi Arabia", "Scotland", "Senegal", "Serbia", "South Africa",
     "Spain", "Switzerland", "Tunisia", "Turkey", "Ukraine",
-    "United States", "Uruguay", "Venezuela", "Wales",
+    "United States", "Uruguay", "Bosnia and Herzegovina", "Wales",
 ])
 
 # Illustrative groups — update after official draw (Dec 2025)
